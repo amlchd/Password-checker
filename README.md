@@ -61,7 +61,7 @@ Suggestions:
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/your-username/password-checker.git
+git clone https://github.com/amlchd/password-checker.git
 ```
 
 ### 2️⃣ Navigate to the folder
@@ -121,6 +121,6 @@ This project is open-source and free to use.
 
 ## 💡 Author
 
-Your Name
+**amlchd**
 
 > Beginner in Cybersecurity 🚀
